@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace WinFormsApp2 // Bax, buranı layihənin adına uyğunlaşdırdıq
+namespace WinFormsApp2 
 {
     static class Program
     {
